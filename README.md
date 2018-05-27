@@ -9,7 +9,7 @@ Acompanha arquivo ".exe" para já poder ser executado em qualquer máquina windo
 ## Observações
 Nunca tentei compilar este jogo para Linux, porém, creio que funcione sem problemas.
 Qualquer contribuição para o jogo será bem vinda.
-Não julguem o código xD, feito de iniciantes para iniciantes!
+Não julguem o código xD. Estava iniciando no mundo da programação, então este é um código de novato para novatos!
 Enjoy it!
 
 
